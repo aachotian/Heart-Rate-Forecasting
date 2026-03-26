@@ -13,7 +13,7 @@ This project studies **one-step-ahead heart rate forecasting** using classical t
 
 ## Setup
 
-```bash id="c3m8zv"
+```
 pip install -r requirements.txt
 ```
 
@@ -25,7 +25,7 @@ The raw data is not included in this repository.
 
 Download the datasets from the following sources and place them at the repository root:
 
-```text id="xjq1lz"
+```
 sensors-22-00034-s001/
 PPG_FieldStudy/
 WildPPG.mat
